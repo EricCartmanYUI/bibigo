@@ -1,6 +1,6 @@
 ### Kratos
 
-##### 项目规范(项目规范)
+##### 项目规范(项目规范 )
 1,每个目录 需要有独立的README.md  CHANGELOG.md CONTRIBUTORS.md，具体可以参考：
 http://git.bilibili.co/platform/go-common/tree/master/business/service/archive
 
